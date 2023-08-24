@@ -41,7 +41,7 @@ Have access to your [Microsoft Azure account] (https://portal.azure.com/)
 
 [Databricks Driver Only Internal](https://datadoghq.atlassian.net/wiki/spaces/~6387b6f3f6c85b343c0ba799/pages/2830664472/Databrick+Integration+with+Datadog) doc
 
-[Databricks Worker And Driver Internal]([https://docs.datadoghq.com/integrations/databricks/?tab=driveronly#standard-cluster](https://datadoghq.atlassian.net/wiki/spaces/TS/pages/1391626126/Databricks+Datadog+Integration+for+Driver+Workers)https://datadoghq.atlassian.net/wiki/spaces/TS/pages/1391626126/Databricks+Datadog+Integration+for+Driver+Workers) doc
+[Databricks Worker And Driver Internal](https://datadoghq.atlassian.net/wiki/spaces/TS/pages/1391626126/Databricks+Datadog+Integration+for+Driver+Workers)https://datadoghq.atlassian.net/wiki/spaces/TS/pages/1391626126/Databricks+Datadog+Integration+for+Driver+Workers) doc
 
 
 
